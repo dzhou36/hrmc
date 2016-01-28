@@ -12,3 +12,4 @@ potentials/reformatted/Al90Sm10_MendelevM_2014.eam.fs
 30.759145         # thickness scaling factor
 1 40 20     	# of rotations(nphi, npsi, ntheta), use 1 40 20
 0.0305          # Q (inverse angstrom)
+567
